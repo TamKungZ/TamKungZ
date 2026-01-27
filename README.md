@@ -6,10 +6,10 @@
 
 ## About Me
 
-Freelance Developer | Game Modding Enthusiast | Live2D Creator | AI Tools Explorer
+Freelance Developer | Game Modding Enthusiast | Live2D Creator
 
 - Born: October 9
-- Expertise: Game Development, Minecraft Modding, Live2D, AI Tools
+- Expertise: Game Development, Minecraft Modding, Live2D
 - Currently working on various game mods and creative projects
 - Passionate about 2D animation and graphic design
 
