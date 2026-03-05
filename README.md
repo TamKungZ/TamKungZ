@@ -22,8 +22,6 @@ languages: **english / thai**
 
 ## what i actually use
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tamkungz&show_icons=true&theme=transparent)
-
 ### languages & scripting
 `C` `C#` `C++` `Java` `Kotlin` `Python`  
 `HTML` `CSS` `JavaScript` `PHP`  
