@@ -1,139 +1,81 @@
+<img src="https://dev.tamkungz.me/image/tam_profile_image.png" alt="me" width="20%" height="20%">
+
 # hey, i'm TamKungZ_
 
-indie dev from thailand 🇹🇭  
-i build **game mods, tools, frameworks, and creative stuff**  
-mostly because i *want it to exist*.
-
-> code, games, mods, vtuber tools, random ideas that turn into real projects
+indie dev from thailand 🇹🇭 — i build mods, tools, and things i wish existed.
 
 ---
 
-## who am i
+## about
 
-- freelance developer / indie creator  
-- into **game modding**, **tools for creators**, **Live2D**, and **game engines**
-- i like making things that help other people create stuff easier
-- sometimes i disappear because of burnout or life — but i always come back
+developer · modder · creative builder  
+into game modding, creator tools, Live2D, and game engines  
+sometimes disappears, always comes back
 
-born: **october 9**  
-languages: **english / thai**
+born oct 9 · english & thai
 
 ---
 
-## what i actually use
+## projects
 
-### languages & scripting
-`C` `C#` `C++` `Java` `Kotlin` `Python`  
-`HTML` `CSS` `JavaScript` `PHP`  
-`Lua` `Rust` `JSON` `GDScript`
+**minecraft mods**
+- **Let Your Friend Eating!** — feed each other in multiplayer
+- **Stardew Valley Food** — Stardew food ported to Minecraft
+- **Japan Props / Japan & Dessert** — japanese-style decor & sweets
+- **DropRateAPI** — drop rate control for mod devs
+- **SideGate** — controlled side entrance while keeping Online-Mode
+- **InfoPlus** · **iRecycle** · **Impossible Item Crafting** · **Smooth Wood**
 
-### game & engine stuff
-`Minecraft Modding (Fabric / Forge / NeoForge / Quilt)`  
-`Unity` `Unreal` `Godot` `RPG Maker`
+**stardew valley**
+- **NPC Helper** — framework for custom NPCs with schedules, dialogue, localization
+- **Stardew NPC Maker** — GUI tool for creating NPC mods without writing JSON
+- **Dr. Rei** — custom NPC mod built on NPC Helper
+- **Stardew Discord Notifier** — webhook on new day with weather, luck, birthdays, etc.
 
-### art / vtuber / creative
-`Live2D` `Blender`  
-`Clip Studio` `Krita`  
-`Photoshop` `Illustrator` `Substance`  
-`Figma`
+**software & tools**
+- **VLiva** — Live2D VTuber app for Linux
+- **Kitsune 2D Engine** *(in progress)* — lightweight engine for RPG / VN / MMO
+- **JLayer Custom** — improved Java MP3 decoder with VBR fixes
 
-### audio / video
-`FL Studio` `Ableton Live`  
-`Vegas` `After Effects`
+**web**
+- [https://shop.vtouch.cf](https://shop.vtouch.cf/)
 
-### dev tools
-`VS Code` `Visual Studio` `IntelliJ IDEA`  
-`Git` `Gradle` `Maven`
-
----
-
-## main projects
-
-### Minecraft Mods
-- **Let Your Friend Eating!**  
-  utility mod that lets players feed each other  
-  > Fabric / Forge / NeoForge / Quilt  
-  > legacy + modern versions supported  
-
-- **Stardew Valley Food**  
-  ports food from Stardew Valley into Minecraft  
-  90k+ downloads
-
-- **Japan Props / Japan & Dessert**  
-  japanese-style decorations & sweets for builders
-
-- **DropRateAPI**  
-  api mod for controlling drop rates (for devs)
+**on hold**
+- Auto Piano Player · NPCMaker-CS
 
 ---
 
-### tools & frameworks
+## stack
 
-- **VLiva** — VTuber for Linux  
-  run Live2D VTuber models natively on Linux
+**languages**  
+`C` `C#` `C++` `Java` `Kotlin` `Python` `JS` `TS` `PHP` `Lua` `Rust` `GDScript`
 
-- **Stardew NPC Maker**  
-  create Stardew Valley NPC mods without pain  
-  no manual JSON hell
+**web**  
+React (some) · Astro · Next.js · Vite  
+also tried: Remix, Qwik
 
-- **NPC Helper (Framework)**  
-  runtime NPC system with schedules, dialogue, localization
+**game engines**  
+Unity · Unreal · Godot · RPG Maker · Minecraft modding
 
-- **Kitsune 2D Engine** *(developing)*  
-  lightweight 2D engine for RPG / VN / MMO-style games
-
----
-
-## on hold / experimental
-projects i still care about but paused:
-
-- Auto Piano Player (Python)
-- NPCMaker-CS (Stardew / SMAPI)
-
-collab welcome
+**creative**  
+Live2D · Blender · Figma · FL Studio · Ableton · Clip Studio
 
 ---
 
-## maven repository
+## find me
 
-```gradle
-maven { url "https://tamkungz.github.io/maven" }
-````
+[dev.tamkungz.me](https://dev.tamkungz.me/)
 
-example:
+[GitHub](https://github.com/TamKungZ) · [GitLab](https://gitlab.com/TamKungZ) · [X](https://x.com/TamKungZ_) · [YouTube](https://youtube.com/@TamKungZ_)  
 
-```gradle
-implementation "th.in.tamkungz:letyourfriendeating-forge-1.13.2:1.1.3"
-```
+[CurseForge](https://www.curseforge.com/members/tamkungz_/projects) · [Modrinth](https://modrinth.com/user/TamKungZ_) · [Nexus](https://next.nexusmods.com/profile/TamKungZ/mods) · [Pixiv](https://www.pixiv.net/users/107946376) · [Sketchfab](https://sketchfab.com/TamKungZ_) · [Discord  ](https://discord.com/users/1370882795144089600)
 
----
+[Sonatype](https://central.sonatype.com/search?q=me.tamkungz) · [npm](https://www.npmjs.com/~tamkungz_) · [PyPI](https://pypi.org/user/TamKungZ/) · [NuGet](https://www.nuget.org/profiles/TamKungZ) · [crates.io](https://crates.io/users/TamKungZ)
 
-## find me here
+support: [Patreon](https://www.patreon.com/TamKungZ_) · [Ko-fi](https://ko-fi.com/tamkungz_) · [Buy Me a Coffee](https://www.buymeacoffee.com/TamKungZ_)
 
-* [https://tamkungz.github.io](https://tamkungz.github.io)
-* GitHub: [https://github.com/TamKungZ](https://github.com/TamKungZ)
-* GitLab: [https://gitlab.com/TamKungZ](https://gitlab.com/TamKungZ)
-* Twitter/X: [https://x.com/TamKungZ_](https://x.com/TamKungZ_)
-* YouTube: [https://youtube.com/@TamKungZ_](https://youtube.com/@TamKungZ_)
-* CurseForge / Modrinth / Nexus Mods
-* Pixiv / Sketchfab
-* Discord Community
-
-(Linktree has everything if you're lazy)
+**maven:** [https://mvnrepository.com/artifact/me.tamkungz](https://mvnrepository.com/artifact/me.tamkungz)
 
 ---
 
-## support my work
-
-only if you want to:
-
-* Patreon
-* Buy Me a Coffee
-* Ko-fi
-
-support = more time to build cool stuff
-
----
-
-> "i make things because i wish they existed."
-> — TamKungZ_
+> *i make things because i wish they existed.*
