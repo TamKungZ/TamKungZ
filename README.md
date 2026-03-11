@@ -16,6 +16,12 @@ born oct 9 · english & thai
 
 ---
 
+## specialties
+
+comfortable working with Java and binary media formats.
+
+---
+
 ## projects
 
 **minecraft mods**
