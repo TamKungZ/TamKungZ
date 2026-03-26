@@ -14,6 +14,8 @@ sometimes disappears, always comes back
 
 born oct 9 · english & thai
 
+main site: [https://dev.tamkungz.me/](https://dev.tamkungz.me/)
+
 ---
 
 ## specialties
