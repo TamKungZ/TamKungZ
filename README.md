@@ -24,6 +24,20 @@
 ## Projects
 
 <details>
+<summary><b>Tools & Software</b></summary>
+<br>
+
+| Project | Description |
+|---------|-------------|
+| [VLiva](https://vliva.tamkungz.me/) | Live2D VTubing app for Linux |
+| [Kitsune 2D Engine](https://github.com/TamKungZ/KitsuneEngine) | Lightweight engine for RPG / VN / MMO |
+| [JLayer Custom](https://mvnrepository.com/artifact/me.tamkungz/jlayer-custom) | Improved Java MP3 decoder with VBR fixes |
+| [ImageMerge](https://github.com/TamKungZ/ImageMergePy) | A GUI tool to merge images/videos from multiple folders. |
+| [CodecMedia](https://central.sonatype.com/artifact/me.tamkungz.codecmedia/codecmedia) | Lightweight Java library for media inspection, validation, extraction, and conversion. |
+
+</details>
+
+<details>
 <summary><b>Minecraft Mods</b></summary>
 <br>
 
@@ -48,19 +62,6 @@
 | Stardew NPC Maker | GUI tool for creating NPC mods without writing JSON |
 | Dr. Rei | Custom NPC mod built on NPC Helper |
 | Discord Notifier | Webhook on new day with weather, luck, birthdays, etc. |
-
-</details>
-
-<details>
-<summary><b>Tools & Software</b></summary>
-<br>
-
-| Project | Description |
-|---------|-------------|
-| [VLiva](https://vliva.tamkungz.me/) | Live2D VTuber app for Linux |
-| [Kitsune 2D Engine](https://github.com/TamKungZ/KitsuneEngine) | Lightweight engine for RPG / VN / MMO |
-| [JLayer Custom](https://mvnrepository.com/artifact/me.tamkungz/jlayer-custom) | Improved Java MP3 decoder with VBR fixes |
-| [ImageMerge](https://github.com/TamKungZ/ImageMergePy) | A GUI tool to merge images/videos from multiple folders. |
 
 </details>
 
