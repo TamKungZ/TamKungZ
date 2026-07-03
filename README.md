@@ -171,6 +171,7 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-TamKungZ__-FFDD00?style=flat&logo=buymeacoffee&logoColor=000)](https://www.buymeacoffee.com/TamKungZ_)
 
 [kittiwut.pimpromma@gmail.com](mailto:kittiwut.pimpromma@gmail.com) [contact@tamkungz.me](mailto:contact@tamkungz.me)
+[repo.tamkungz.me](https://repo.tamkungz.me/) [maven.tamkungz.me](https://maven.tamkungz.me/)
 
 ---
 
