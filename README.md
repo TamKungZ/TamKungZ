@@ -30,6 +30,8 @@
 | Project | Description |
 |---------|-------------|
 | [VLiva](https://vliva.tamkungz.me/) | Live2D VTubing app for Linux |
+| [Tarminal](https://packages.tamkungz.me/apps/tarminal/) | A small, honest tarball installer |
+| [Livedesk](https://github.com/TamKungZ/livedesk-live-wallpaper-for-gnome) | Live Wallpaper for GNOME |
 | [Kitsune 2D Engine](https://github.com/TamKungZ/KitsuneEngine) | Lightweight engine for RPG / VN / MMO |
 | [JLayer Custom](https://mvnrepository.com/artifact/me.tamkungz/jlayer-custom) | Improved Java MP3 decoder with VBR fixes |
 | [ImageMerge](https://github.com/TamKungZ/ImageMergePy) | A GUI tool to merge images/videos from multiple folders. |
@@ -170,8 +172,10 @@
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-tamkungz__-FF5E5B?style=flat&logo=ko-fi)](https://ko-fi.com/tamkungz_)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-TamKungZ__-FFDD00?style=flat&logo=buymeacoffee&logoColor=000)](https://www.buymeacoffee.com/TamKungZ_)
 
-[kittiwut.pimpromma@gmail.com](mailto:kittiwut.pimpromma@gmail.com) [contact@tamkungz.me](mailto:contact@tamkungz.me)
-[repo.tamkungz.me](https://repo.tamkungz.me/) [maven.tamkungz.me](https://maven.tamkungz.me/)
+**Contact**
+
+[dev@tamkungz.me](mailto:dev@tamkungz.me)
+[repo.tamkungz.me](https://repo.tamkungz.me/) [packages.tamkungz.me](https://packages.tamkungz.me/)
 
 ---
 
