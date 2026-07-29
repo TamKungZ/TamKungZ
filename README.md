@@ -32,6 +32,7 @@
 | [VLiva](https://vliva.tamkungz.me/) | Live2D VTubing app for Linux |
 | [Tarminal](https://packages.tamkungz.me/apps/tarminal/) | A small, honest tarball installer |
 | [Livedesk](https://github.com/TamKungZ/livedesk-live-wallpaper-for-gnome) | Live Wallpaper for GNOME |
+| [Vergeo2D.Mesh](https://www.nuget.org/packages/Vergeo2D.Mesh) | A lightweight C# library for editing 2D texture meshes |
 | [Kitsune 2D Engine](https://github.com/TamKungZ/KitsuneEngine) | Lightweight engine for RPG / VN / MMO |
 | [JLayer Custom](https://mvnrepository.com/artifact/me.tamkungz/jlayer-custom) | Improved Java MP3 decoder with VBR fixes |
 | [ImageMerge](https://github.com/TamKungZ/ImageMergePy) | A GUI tool to merge images/videos from multiple folders. |
