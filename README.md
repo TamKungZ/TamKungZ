@@ -33,6 +33,9 @@
 | [Tarminal](https://packages.tamkungz.me/apps/tarminal/) | A small, honest tarball installer |
 | [Livedesk](https://github.com/TamKungZ/livedesk-live-wallpaper-for-gnome) | Live Wallpaper for GNOME |
 | [Vergeo2D.Mesh](https://www.nuget.org/packages/Vergeo2D.Mesh) | A lightweight C# library for editing 2D texture meshes |
+| [pthrs](https://github.com/TamKungZ/pthrs) | Pure-Rust reader for PyTorch PTH checkpoints and FAISS IVF-Flat indexes |
+| [rvc-rs](https://github.com/TamKungZ/rvc-rs) | Native Rust implementation of Retrieval-based Voice Conversion focused on direct RVC `.pth` checkpoints, FAISS `.index` retrieval, and real-time audio. Python/PyTorch behavior is the compatibility reference, not a runtime dependency. |
+| [PinFetch](https://apify.com/tamkungz/pinfetch) | Download images from public Pinterest boards in bulk. Scrape image URLs, save available high-resolution images, export them as a ZIP, and get structured dataset results for automation or API use. |
 | [Kitsune 2D Engine](https://github.com/TamKungZ/KitsuneEngine) | Lightweight engine for RPG / VN / MMO |
 | [JLayer Custom](https://mvnrepository.com/artifact/me.tamkungz/jlayer-custom) | Improved Java MP3 decoder with VBR fixes |
 | [ImageMerge](https://github.com/TamKungZ/ImageMergePy) | A GUI tool to merge images/videos from multiple folders. |
