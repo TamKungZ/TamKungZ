@@ -64,10 +64,10 @@ I like small, focused software with as little unnecessary complexity as possible
 #### Minecraft
 
 * **[Let Your Friend Eating](https://www.curseforge.com/minecraft/mc-mods/letyourfriendeating)** — Feed other players in multiplayer
+* **[SideGate](https://dev.tamkungz.me/projects/sidegate/)** — Controlled side entrance while retaining Online-Mode
 * **Stardew Valley Food** — Stardew Valley food ported to Minecraft
 * **Japan Props / Japan & Dessert** — Japanese-style decorations and sweets
 * **DropRateAPI** — Drop-rate control API for mod developers
-* **SideGate** — Controlled side entrance while retaining Online-Mode
 * **InfoPlus · iRecycle · Impossible Item Crafting · Smooth Wood** — Smaller utility mods
 
 #### Stardew Valley
