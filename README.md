@@ -60,11 +60,16 @@ I like small, focused software with as little unnecessary complexity as possible
 * **[ImageMerge](https://github.com/TamKungZ/ImageMergePy)** — GUI utility for merging images and videos from multiple folders
 * **[PinFetch](https://apify.com/tamkungz/pinfetch)** — Bulk downloader and scraper for public Pinterest boards
 * **[Kitsune 2D Engine](https://github.com/TamKungZ/KitsuneEngine)** — Lightweight engine for RPG, visual novel, and MMO-style projects
+* **[rsecord](https://github.com/TamKungZ/rsecord)** — A lightweight, cross-platform screen recorder
+* **[ImageMergePy](https://github.com/TamKungZ/ImageMergePy)** — A photo and video organizer to merge files from multiple folders, find duplicate images and videos, and batch rename media with clean, sequential filenames.
 
 #### Minecraft
 
 * **[Let Your Friend Eating](https://www.curseforge.com/minecraft/mc-mods/letyourfriendeating)** — Feed other players in multiplayer
 * **[SideGate](https://dev.tamkungz.me/projects/sidegate/)** — Controlled side entrance while retaining Online-Mode
+* **[Nows Loader](https://nows.space/)** — A Minecraft Java mod loader and stable wrapper layer that sits between your mod and Minecraft
+* **[DX12MC](https://github.com/TamKungZ/DX12MC)** — DX12MC is a client-side Fabric mod that routes selected Minecraft Java rendering work through Direct3D 12 using bgfx
+* **[Chef's Workbench](https://github.com/TamKungZ/ChefWorkbench-MinecraftMod)** — Build a functional Minecraft kitchen to cook, fry, bake, steam, and boil food with specialized cooking stations
 * **Stardew Valley Food** — Stardew Valley food ported to Minecraft
 * **Japan Props / Japan & Dessert** — Japanese-style decorations and sweets
 * **DropRateAPI** — Drop-rate control API for mod developers
