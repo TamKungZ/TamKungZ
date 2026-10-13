@@ -153,9 +153,9 @@ FL Studio · Ableton Live · Audacity · After Effects · Spine
 ---
 
 <p align="center">
-  <a href="https://repo.tamkungz.me/">repo.tamkungz.me</a>
-  ·
   <a href="https://packages.tamkungz.me/">packages.tamkungz.me</a>
+  ·
+  <a href="https://repo.tamkungz.me/">repo.tamkungz.me</a>
 </p>
 
 <p align="center">
