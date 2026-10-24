@@ -63,6 +63,7 @@ I like small, focused software with as little unnecessary complexity as possible
 * **[rsecord](https://github.com/TamKungZ/rsecord)** — A lightweight, cross-platform screen recorder
 * **[ImageMergePy](https://github.com/TamKungZ/ImageMergePy)** — A photo and video organizer to merge files from multiple folders, find duplicate images and videos, and batch rename media with clean, sequential filenames.
 * **[madeitpx](https://github.com/TamKungZ/madeitpx)** — madeitpx converts images into pixel art with a limited color palette. Pick your output size and number of colors, and it handles the rest.
+* **[WinFreezeTrace](https://github.com/TamKungZ/WinFreezeTrace)** — Windows background monitor for capturing system performance data around freezes, hangs, storage stalls, and unexplained system slowdowns.
 
 #### Minecraft
 
