@@ -64,7 +64,7 @@ I like small, focused software with as little unnecessary complexity as possible
 * **[ImageMergePy](https://github.com/TamKungZ/ImageMergePy)** — A photo and video organizer to merge files from multiple folders, find duplicate images and videos, and batch rename media with clean, sequential filenames.
 * **[madeitpx](https://github.com/TamKungZ/madeitpx)** — madeitpx converts images into pixel art with a limited color palette. Pick your output size and number of colors, and it handles the rest.
 * **[WinFreezeTrace](https://github.com/TamKungZ/WinFreezeTrace)** — Windows background monitor for capturing system performance data around freezes, hangs, storage stalls, and unexplained system slowdowns.
-* **[STOW](https://github.com/TamKungZ/STOW)** — Windows background monitor for capturing system performance data around freezes, hangs, storage stalls, and unexplained system slowdowns.
+* **[STOW](https://github.com/TamKungZ/STOW)** — An experimental archive format and a library to read and write it.
 
 #### Minecraft
 
@@ -73,6 +73,7 @@ I like small, focused software with as little unnecessary complexity as possible
 * **[Nows Loader](https://nows.space/)** — A Minecraft Java mod loader and stable wrapper layer that sits between your mod and Minecraft
 * **[DX12MC](https://github.com/TamKungZ/DX12MC)** — DX12MC is a client-side Fabric mod that routes selected Minecraft Java rendering work through Direct3D 12 using bgfx
 * **[Chef's Workbench](https://github.com/TamKungZ/ChefWorkbench-MinecraftMod)** — Build a functional Minecraft kitchen to cook, fry, bake, steam, and boil food with specialized cooking stations
+* **[SignalsLib](https://gitea.com/TamKungZ/signals-mc)** — A tiny Java signal/event library with optional Bukkit/Spigot, Folia, BungeeCord/Waterfall and Velocity integration, backed by [GEB](https://central.sonatype.com/artifact/foo.zaaarf.geb/core).
 * **Stardew Valley Food** — Stardew Valley food ported to Minecraft
 * **Japan Props / Japan & Dessert** — Japanese-style decorations and sweets
 * **DropRateAPI** — Drop-rate control API for mod developers
