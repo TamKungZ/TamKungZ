@@ -37,54 +37,56 @@ I like small, focused software with as little unnecessary complexity as possible
 
 ---
 
-### Selected projects
+### Libraries & tools
 
-| Project                                                                                   |                                                                                   |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **[VLiva](https://vliva.tamkungz.me/)**                                                   | Live2D VTubing application for Linux                                              |
-| **[rvc-rs](https://github.com/TamKungZ/rvc-rs)**                                          | Native Rust implementation of Retrieval-based Voice Conversion                    |
-| **[pthrs](https://github.com/TamKungZ/pthrs)**                                            | Pure-Rust reader for PyTorch PTH checkpoints and FAISS IVF-Flat indexes           |
+| Project | Description |
+| --- | --- |
+| **[VLiva](https://vliva.tamkungz.me/)** | Live2D VTubing application for Linux |
+| **[rvc-rs](https://github.com/TamKungZ/rvc-rs)** | Native Rust implementation of Retrieval-based Voice Conversion |
+| **[pthrs](https://github.com/TamKungZ/pthrs)** | Pure-Rust reader for PyTorch PTH checkpoints and FAISS IVF-Flat indexes |
 | **[CodecMedia](https://central.sonatype.com/artifact/me.tamkungz.codecmedia/codecmedia)** | Lightweight Java media inspection, extraction, validation, and conversion library |
-| **[Vergeo2D.Mesh](https://www.nuget.org/packages/Vergeo2D.Mesh)**                         | Lightweight C# library for editing 2D texture meshes                              |
-| **[Tarminal](https://packages.tamkungz.me/apps/tarminal/)**                               | A small, honest tarball installer                                                 |
-| **[Livedesk](https://github.com/TamKungZ/livedesk-live-wallpaper-for-gnome)**             | Live wallpaper for GNOME                                                          |
-| **[JLayer Custom](https://mvnrepository.com/artifact/me.tamkungz/jlayer-custom)**         | Improved Java MP3 decoder with VBR fixes                                          |
+| **[Vergeo2D.Mesh](https://www.nuget.org/packages/Vergeo2D.Mesh)** | Lightweight C# library for editing 2D texture meshes |
+| **[Tarminal](https://packages.tamkungz.me/apps/tarminal/)** | A small, honest tarball installer |
+| **[Livedesk](https://github.com/TamKungZ/livedesk-live-wallpaper-for-gnome)** | Live wallpaper for GNOME |
+| **[JLayer Custom](https://mvnrepository.com/artifact/me.tamkungz/jlayer-custom)** | Improved Java MP3 decoder with VBR fixes |
+| **[ImageMerge](https://github.com/TamKungZ/ImageMergePy)** | GUI utility for merging images and videos from multiple folders |
+| **[PinFetch](https://apify.com/tamkungz/pinfetch)** | Bulk downloader and scraper for public Pinterest boards |
+| **[Kitsune 2D Engine](https://github.com/TamKungZ/KitsuneEngine)** (Abandoned) | Lightweight engine for RPG, visual novel, and MMO-style projects. Continued as Mizu Engine, a pure-Rust engine |
+| **[rsecord](https://github.com/TamKungZ/rsecord)** | A lightweight, cross-platform screen recorder |
+| **[ImageMergePy](https://github.com/TamKungZ/ImageMergePy)** | A photo and video organizer to merge files from multiple folders, find duplicate images and videos, and batch rename media with clean, sequential filenames |
+| **[madeitpx](https://github.com/TamKungZ/madeitpx)** | Converts images into pixel art with a limited color palette. Pick your output size and number of colors, and it handles the rest |
+| **[WinFreezeTrace](https://github.com/TamKungZ/WinFreezeTrace)** | Windows background monitor for capturing system performance data around freezes, hangs, storage stalls, and unexplained system slowdowns |
+| **[STOW](https://github.com/TamKungZ/STOW)** | An experimental archive format and a library to read and write it |
 
 <details>
 <summary><b>More projects</b></summary>
 
 <br>
 
-#### Libraries & tools
-
-* **[ImageMerge](https://github.com/TamKungZ/ImageMergePy)** — GUI utility for merging images and videos from multiple folders
-* **[PinFetch](https://apify.com/tamkungz/pinfetch)** — Bulk downloader and scraper for public Pinterest boards
-* **[Kitsune 2D Engine](https://github.com/TamKungZ/KitsuneEngine)** — Lightweight engine for RPG, visual novel, and MMO-style projects
-* **[rsecord](https://github.com/TamKungZ/rsecord)** — A lightweight, cross-platform screen recorder
-* **[ImageMergePy](https://github.com/TamKungZ/ImageMergePy)** — A photo and video organizer to merge files from multiple folders, find duplicate images and videos, and batch rename media with clean, sequential filenames.
-* **[madeitpx](https://github.com/TamKungZ/madeitpx)** — madeitpx converts images into pixel art with a limited color palette. Pick your output size and number of colors, and it handles the rest.
-* **[WinFreezeTrace](https://github.com/TamKungZ/WinFreezeTrace)** — Windows background monitor for capturing system performance data around freezes, hangs, storage stalls, and unexplained system slowdowns.
-* **[STOW](https://github.com/TamKungZ/STOW)** — An experimental archive format and a library to read and write it.
-
 #### Minecraft
 
-* **[Let Your Friend Eating](https://www.curseforge.com/minecraft/mc-mods/letyourfriendeating)** — Feed other players in multiplayer
-* **[SideGate](https://dev.tamkungz.me/projects/sidegate/)** — Controlled side entrance while retaining Online-Mode
-* **[Nows Loader](https://nows.space/)** — A Minecraft Java mod loader and stable wrapper layer that sits between your mod and Minecraft
-* **[DX12MC](https://github.com/TamKungZ/DX12MC)** — DX12MC is a client-side Fabric mod that routes selected Minecraft Java rendering work through Direct3D 12 using bgfx
-* **[Chef's Workbench](https://github.com/TamKungZ/ChefWorkbench-MinecraftMod)** — Build a functional Minecraft kitchen to cook, fry, bake, steam, and boil food with specialized cooking stations
-* **[SignalsLib](https://gitea.com/TamKungZ/signals-mc)** — A tiny Java signal/event library with optional Bukkit/Spigot, Folia, BungeeCord/Waterfall and Velocity integration, backed by [GEB](https://central.sonatype.com/artifact/foo.zaaarf.geb/core).
-* **Stardew Valley Food** — Stardew Valley food ported to Minecraft
-* **Japan Props / Japan & Dessert** — Japanese-style decorations and sweets
-* **DropRateAPI** — Drop-rate control API for mod developers
-* **InfoPlus · iRecycle · Impossible Item Crafting · Smooth Wood** — Smaller utility mods
+| Project | Description |
+| --- | --- |
+| **[Let Your Friend Eating](https://www.curseforge.com/minecraft/mc-mods/letyourfriendeating)** | Feed other players in multiplayer |
+| **[SideGate](https://dev.tamkungz.me/projects/sidegate/)** | Controlled side entrance while retaining Online-Mode |
+| **[Nows Loader](https://nows.space/)** | A Minecraft Java mod loader and stable wrapper layer that sits between your mod and Minecraft |
+| **[DX12MC](https://github.com/TamKungZ/DX12MC)** | Client-side Fabric mod that routes selected Minecraft Java rendering work through Direct3D 12 using bgfx |
+| **[Chef's Workbench](https://github.com/TamKungZ/ChefWorkbench-MinecraftMod)** | Build a functional Minecraft kitchen to cook, fry, bake, steam, and boil food with specialized cooking stations |
+| **[SignalsLib](https://gitea.com/TamKungZ/signals-mc)** | A tiny Java signal/event library with optional Bukkit/Spigot, Folia, BungeeCord/Waterfall and Velocity integration, backed by [GEB](https://central.sonatype.com/artifact/foo.zaaarf.geb/core) |
+| **Stardew Valley Food** | Stardew Valley food ported to Minecraft |
+| **[Japan Props](https://www.curseforge.com/minecraft/mc-mods/japan-props)** / **[Japan & Dessert](https://www.curseforge.com/minecraft/mc-mods/japan-and-dessert)** (Paused) | Japanese-style decorations and sweets |
+| **DropRateAPI** (Abandoned) | Drop-rate control API for mod developers |
+| **[InfoPlus](https://modrinth.com/mod/infoplus)** (Abandoned) · iRecycle · Impossible Item Crafting · Smooth Wood | Smaller utility mods |
 
 #### Stardew Valley
 
-* **NPC Helper** — Framework for custom NPCs, schedules, dialogue, and localization
-* **Stardew NPC Maker** — GUI for creating NPC mods without manually writing JSON
-* **Dr. Rei** — Custom NPC built on NPC Helper
-* **Discord Notifier** — Daily webhook containing weather, luck, birthdays, and other information
+| Project | Description |
+| --- | --- |
+| **[NPC Helper 2](https://www.nexusmods.com/stardewvalley/mods/54754)** | Framework for custom NPCs, schedules, dialogue, and localization |
+| **[NPC Helper](https://www.nexusmods.com/stardewvalley/mods/41303)** (Abandoned) | Framework for custom NPCs, schedules, dialogue, and localization |
+| **Stardew NPC Maker** (Abandoned) | GUI for creating NPC mods without manually writing JSON |
+| **[Dr. Rei](https://www.nexusmods.com/stardewvalley/mods/41305)** | Custom NPC built on NPC Helper |
+| **[Discord Notifier](https://www.nexusmods.com/stardewvalley/mods/40940)** (Paused) | Daily webhook containing weather, luck, birthdays, and other information |
 
 </details>
 
